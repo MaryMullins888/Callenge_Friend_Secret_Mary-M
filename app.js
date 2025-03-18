@@ -3,9 +3,9 @@ const listaAmigos = [];
 const ulListaAmigos = document.getElementById ("listaAmigos");
 const ulResultado = document.getElementById("resultado");
 function agregarAmigo() {
-    //if(imputAmigo.value == ""){ // tambien puedes colocarle !imputAmigo
-        //alert("Por Favor Debes Ingresar un Nombre Valido Gracias")
-    //}
+    if(imputAmigo.value == ""){ // tambien puedes colocarle !imputAmigo
+        alert("Por Favor Debes Ingresar un Nombre Valido Gracias")
+    }
     listaAmigos.push(imputAmigo.value);
     //ulListaAmigos.innerHTML = ulListaAmigos.innerHTML+imputAmigo.value;
    ulListaAmigos.innerHTML += `<li>${imputAmigo.value}</li>`;
