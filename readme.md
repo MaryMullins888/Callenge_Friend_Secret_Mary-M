@@ -11,9 +11,9 @@ Ingresas los nombres y le das clic en añadir cada uno.
 ![alt text](./assets/image-02.png)
 
 Deberás ingresar un nombre no intentes agregar algo vacio ya que te dará un aviso 
-![alt text](image-03.png)
+![alt text](./assets/image-03.png)
 
 Cuando ya coloques a tus amigos deberás dar clic en el botón Sortear Amigo Para luego te saldra cual es al amigo secreto seleccionado en este caso será Pancho el seleccionado 
-![alt text](image-04.png)
+![alt text](./assets/image-04.png)
 
 Gracias por tu atención 
